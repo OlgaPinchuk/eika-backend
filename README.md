@@ -16,12 +16,12 @@ To get the application up and running, follow these steps:
 <br>
    * Locate the code `application.properties` file in the `src/main/resources` folder of the directory.
    * Update this file with the following information:
-     - **URL:** Set the URL to point to your MySQL database.
-     - **Username:** Provide the username to access your database.
-     - **Password:** Enter the corresponding password for the provided username.
+     - **URL:** Set the URL to point to your MySQL database.<br>
+     - **Username:** Provide the username to access your database.<br>
+     - **Password:** Enter the corresponding password for the provided username.<br>
 * Build the project using Maven
 * Run the jar file
-* Backend shoud be available at http://localhost:8080.
+* Backend should be available at http://localhost:8080.
 
 ## Project documentation
 * [Project requirements and backlog](https://docs.google.com/spreadsheets/d/1ivMQt8TucBqNtSndDSTMuvZO85m08hWWY0iufFsw_UE)

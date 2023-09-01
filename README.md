@@ -20,7 +20,8 @@ To get the application up and running, follow these steps:
      - **Username:** Provide the username to access your database.
      - **Password:** Enter the corresponding password for the provided username.
 * Build the project using Maven
-* 
+* Run the jar file
+* Backend shoud be available at http://localhost:8080.
 
 ## Project documentation
 * [Project requirements and backlog](https://docs.google.com/spreadsheets/d/1ivMQt8TucBqNtSndDSTMuvZO85m08hWWY0iufFsw_UE)
@@ -29,8 +30,6 @@ To get the application up and running, follow these steps:
 * [Class diagram](https://lucid.app/lucidchart/36e21bc2-f523-440a-97f1-0e828e5fcba2/edit?viewport_loc=-4370%2C484%2C2287%2C1049%2C0_0&invitationId=inv_99b2e1d3-fdb1-4634-a0f9-8a190604e951)
 
 ## Technology Stack
-
-The SwedenBank application is built using the following technologies:
 
 `Java` v.17.0.2
 
